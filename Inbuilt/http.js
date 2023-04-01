@@ -8,5 +8,11 @@ let server = http.createServer((req,res)=>{
     res.end()
 })
 
+let server1=http.createServer((req,res)=>{
+res.write('Test server 4700');
+res.end();
+})
+
 
 server.listen(4600)
+server1.listen(4700)
