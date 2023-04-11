@@ -1,0 +1,13 @@
+::1 - - [06/Apr/2023:04:23:49 +0000] "GET / HTTP/1.1" 304 -
+::1 - - [06/Apr/2023:04:23:49 +0000] "GET /css/bootstrap.min.css HTTP/1.1" 304 -
+::1 - - [06/Apr/2023:04:23:49 +0000] "GET /css/styles.css HTTP/1.1" 304 -
+::1 - - [06/Apr/2023:04:23:49 +0000] "GET /js/bootstrap.min.js HTTP/1.1" 304 -
+::1 - - [06/Apr/2023:04:23:49 +0000] "GET /fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 178
+::1 - - [06/Apr/2023:04:23:49 +0000] "GET /fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 177
+::1 - - [06/Apr/2023:04:23:49 +0000] "GET /favicon.ico HTTP/1.1" 404 150
+::1 - - [06/Apr/2023:04:23:53 +0000] "GET / HTTP/1.1" 304 -
+::1 - - [06/Apr/2023:04:23:53 +0000] "GET /css/bootstrap.min.css HTTP/1.1" 304 -
+::1 - - [06/Apr/2023:04:23:53 +0000] "GET /css/styles.css HTTP/1.1" 304 -
+::1 - - [06/Apr/2023:04:23:53 +0000] "GET /js/bootstrap.min.js HTTP/1.1" 304 -
+::1 - - [06/Apr/2023:04:23:53 +0000] "GET /fonts/glyphicons-halflings-regular.woff HTTP/1.1" 404 178
+::1 - - [06/Apr/2023:04:23:53 +0000] "GET /fonts/glyphicons-halflings-regular.ttf HTTP/1.1" 404 177
